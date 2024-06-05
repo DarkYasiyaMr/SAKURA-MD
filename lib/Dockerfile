@@ -1,6 +1,6 @@
-FROM quay.io/yasiyaofc1/forzen-v2
-RUN git clone https://github.com/DarkChamaofc01/SAKURA-MD /root/DarkChamaofc01
-WORKDIR /root/DarkChamaofc01/
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/DarkYasiyaMr/SAKURA-MD /root/DarkYasiyaMr
+WORKDIR /root/DarkYasiyaMr/
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start","yarn" ]
