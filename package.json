@@ -90,10 +90,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/CyberWarriorsX/SAKURA-MD.git"
+                 "url": "git+https://github.com/DarkYasiyaMr/SAKURA-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/CyberWarriorsX/SAKURA-MD/issues"
+                 "url": "https://github.com/DarkYasiyaMr/SAKURA-MD/issues"
                   },
-                 "homepage": "https://github.com/CyberWarriorsX/SAKURA-MD#readme"
+                 "homepage": "https://github.com/DarkYasiyaMr/SAKURA-MD#readme"
               }
